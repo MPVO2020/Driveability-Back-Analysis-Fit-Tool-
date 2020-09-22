@@ -1,6 +1,6 @@
 # Driveability-Back-Analysis-Fit-Tool-
 This Driveability Back-Analysis Fit Function tool runs via Jupyter
-Notebook file (.ipynb).
+Notebook file (.ipynb) and calculates the Fit of the Predicted (BE and BA) Driveability and the Actual (Interpolated from Driving Logs) Driveability.
 
 The Notebook runs the large_runfunc.py which prepares and makes some alterations
 to the BE, BA and ID data. 
